@@ -19,3 +19,15 @@ $ cd Fbcrack
 $ chmod +x *
 
 $ python2 akkipuja.py 
+
+# >Run:
+
+$ python2 akkipuja.py
+
+# Username: 
+
+akkipuja
+
+# Password:
+
+ fbclone
