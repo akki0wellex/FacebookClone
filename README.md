@@ -14,4 +14,6 @@ $ pip2 install requests
 
 $ https://github.com/facebookcrack.git
 
-$
+$ cd facebookcrack
+
+$ python2facebookcrack.py
