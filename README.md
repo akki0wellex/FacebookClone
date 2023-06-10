@@ -11,3 +11,7 @@ $ pkg install python && python2 -y
 $ pip2 install mechanize
 
 $ pip2 install requests
+
+$ https://github.com/facebookcrack.git
+
+$
